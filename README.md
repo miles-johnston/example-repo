@@ -1,10 +1,3 @@
-- 👋 Hi, I’m Miles Johnston
-- 👀 I’m interested in coding and know Java and C++ but I am eager to learn more!  Nothing in specific.  Just like learning and creating.
-I am so far familiar with High School AP Computer Science subjects and a bit beyond that as I learn in my own time too on codecademy
-- 🌱 I’m currently learning Java and C++ as well as some JavaScript
-- 💞️ I’m looking to collaborate on anything I qualify for.  I will take any experience I can get so I can find something that peaks my interest,
-and to gain more experience with collaborations and work for others.
--------------------------------------------------------------------------------------------------------------------------------------------------
-email: milesaugust2005@gmail.com
-phone: (608) 733 - 0530
-discord: Shnoodle#0629
+# (header goes here)
+
+(description goes here)
